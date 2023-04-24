@@ -1,0 +1,86 @@
+
+-----
+Test: tests/test_laptop.py::test_comparison_laptop (call)
+Start time: 2023-04-24 22:41:47.612275
+Start name method: transition_to_laptop
+
+End time: 2023-04-24 22:42:35.232574
+End name method: transition_to_laptop
+URL: https://www.technopark.ru/noutbuki/
+-----
+
+-----
+Test: tests/test_laptop.py::test_comparison_laptop (call)
+Start time: 2023-04-24 22:42:35.233606
+Start name method: comparison_laptop
+
+End time: 2023-04-24 22:42:40.121721
+End name method: comparison_laptop
+URL: https://www.technopark.ru/personal/compare/998/
+-----
+
+-----
+Test: tests/test_laptop.py::test_buy_laptop (call)
+Start time: 2023-04-24 22:42:43.049719
+Start name method: open_page
+
+End time: 2023-04-24 22:42:46.595131
+End name method: open_page
+URL: https://www.technopark.ru/
+-----
+
+-----
+Test: tests/test_laptop.py::test_buy_laptop (call)
+Start time: 2023-04-24 22:42:46.596205
+Start name method: transition_to_laptop
+
+End time: 2023-04-24 22:43:25.952430
+End name method: transition_to_laptop
+URL: https://www.technopark.ru/noutbuki/
+-----
+
+-----
+Test: tests/test_laptop.py::test_buy_laptop (call)
+Start time: 2023-04-24 22:43:25.952430
+Start name method: choosing_laptop
+
+
+-----
+Test: tests/test_smartphone.py::test_buy_smartphone (call)
+Start time: 2023-04-24 22:43:29.245689
+Start name method: open_page
+
+End time: 2023-04-24 22:43:29.826689
+End name method: open_page
+URL: https://www.technopark.ru/
+-----
+
+-----
+Test: tests/test_smartphone.py::test_buy_smartphone (call)
+Start time: 2023-04-24 22:43:29.826689
+Start name method: transition_to_phone
+
+End time: 2023-04-24 22:44:15.015636
+End name method: transition_to_phone
+URL: https://www.technopark.ru/smartfony/
+-----
+
+-----
+Test: tests/test_smartphone.py::test_buy_smartphone (call)
+Start time: 2023-04-24 22:44:15.024915
+Start name method: choosing_smartphone_1
+
+End time: 2023-04-24 22:44:22.037964
+End name method: choosing_smartphone_1
+URL: https://www.technopark.ru/smartfon-samsung-galaxy-m53-5g-256-gb-zelenyy/
+-----
+
+-----
+Test: tests/test_smartphone.py::test_buy_smartphone (call)
+Start time: 2023-04-24 22:44:22.037964
+Start name method: cart_smartphone
+
+End time: 2023-04-24 22:44:26.043043
+End name method: cart_smartphone
+URL: https://www.technopark.ru/checkout/
+-----

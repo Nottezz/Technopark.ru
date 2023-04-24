@@ -1,0 +1,21 @@
+Start Test
+Click to Catalog
+Click to Catalog again
+Open catalog with smartphone
+Click to available only filter
+Click to price from filter
+Clear filter price FROM
+Input price from
+Click to price before filter
+Clear filter price BEFORE
+Input price before
+Click to memory filter
+Choosing memory
+Click to battery filter
+Choosing battery
+Looking at the selected list
+Choosing smartphone
+Click to button cart
+Go to cart
+Name is good
+Finish Test

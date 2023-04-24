@@ -1,0 +1,11 @@
+Start Test
+Click to Catalog
+Click to Catalog again
+Open catalog with laptop
+Click to manufacturers filter
+Looking at the selected list
+Changing the display of the product
+Choosing the first product for comparison
+Choosing the second product for comparison
+Click to comparison button
+Finish Test
